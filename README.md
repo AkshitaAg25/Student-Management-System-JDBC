@@ -31,13 +31,14 @@ SQL Queries
 Database Connectivity
 
 #*Learning Outcomes*
+
 Through this project, I learned:
 How to connect Java applications to databases using JDBC
 Writing and executing SQL queries within Java
 Implementing CRUD operations
 Structuring Java applications using OOP principles
-Future Improvements
 
+Future Improvements: 
 Possible enhancements for the project:
 Add a GUI using Java Swing or JavaFX
 Implement input validation
